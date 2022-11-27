@@ -1,0 +1,89 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background: #e1cf65;
+    font-family: "Raleway",sans-serif;
+    
+    
+    
+    }
+    .navbar-brand{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .menu{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .pclass1{
+        font-family: monospace;
+        margin-left:380px;
+        margin-right:20px;
+        margin-bottom:20px;
+    }
+    .pclass2{
+    font-size: large;
+    font-family: monospace;
+    margin-left:10px;
+    margin-right:20px;
+    margin-bottom:20px;
+    }
+    .imagen2{
+    font-size: large;
+    font-family: monospace;
+    margin-left:10px;
+    margin-right:20px;
+    margin-bottom:20px;
+    }
+        .align{
+           position:fixed;  
+            margin-left:80px;
+            margin-right:20px;
+            margin-bottom:20px;
+        }
+        .navbarnavbar-default{
+            background-color: rgb(196, 167, 22);
+            border: 100cm;
+
+        }
+        #jumbotron {
+            margin-top: 48px;
+            padding-top: 20px;
+            margin-left: 0px;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+            background-color: #e1cf65
+        }
+        .h3{
+            font-size: larger; 
+            font-family: fantasy;
+        }
+        .container{
+            border: 1px black; 
+            font-family: sans-serif;
+
+        }
+        .container .jumbotron, .container-fluid .jumbotron {
+            padding-right: 0px;
+            padding-left: 0px;
+            background-color: #e1cf65;
+        }
+        .h1registrate{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: larger;
+        }
+    .h1conocenos{
+        font-family: monospace;
+        margin-top: 20px;
+        font-size: 63px;
+        padding-left: 380px;
+        padding-right: 0px;
+
+    }
+    .jumbotron .h1, .jumbotron h1 {
+        font-size: 100px;
+    }
+    .pconocenos{
+        font-family: inherit;
+        margin-top: 20px;
+        size: 60px;
+
+    }
